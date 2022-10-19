@@ -1,1 +1,15 @@
 # CS-305-Software-Security
+# Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? 
+The client was Artemis Financial, a consulting company that creates individualized financial strategies for its customers. They were looking to update/modernize their operations. They also wanted to implement the most current and effective software security, which is essential to the success of their custom software. 
+# What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+I’m not very experienced in secure coding, however, I consider it great achievement that I was able to at least identify one vulnerability in the code base through a manual review of that code base. It’s important to code securely because it protects against leaking sensitive data and that data falling into the wrong hands. Companies will benefit from the ability to publish reliable and secure software. Software security helps to maintain a company’s good reputation by being able to effectively secure their customer’s personal information. 
+# What part of the vulnerability assessment was challenging or helpful to you?
+The dependency check tool was helpful and challenging to interpret for someone who is just beginning to learn about software security. 
+# How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+To increase layers of security, I made sure to implement secure coding techniques to eliminate any vulnerabilities that were detected.  In the future, I’d probably use something like a vulnerability assessment process flow diagram to help me to assess vulnerabilities and decide which mitigation techniques to use. 
+# How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+To make certain the code and software application were functional and secure, I made sure my code was working by running it. I also made sure to run the dependency check tool after refactoring the code to ensure that no new vulnerabilities were introduced.
+# What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+I think the dependency check tool seems like a very useful tool that will be helpful in future assignments. Secure coding techniques and using things like self-signed certificates will also be helpful. 
+# Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+I might show them how I’m familiar with using a dependency check tool and this is where I learned how to do it for the first time. 
